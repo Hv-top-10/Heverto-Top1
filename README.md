@@ -2,7 +2,7 @@
 
 Meu nome e Hevertom
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](www.alura.com.br)
 - Estou desenvolvendo linguagem JavaScript
 - Aqui postarei meus projetos futuros
 
